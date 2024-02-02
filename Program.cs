@@ -13,6 +13,8 @@ namespace ConsoleApp1
             for (int a = 0; a <= 11; a++)
             {
                 Console.WriteLine("UnityDersleri");
+                Console.WriteLine("Btk Akademi Görevi");
+                Console.WriteLine("1.Görev");
             }
             Console.ReadLine();
         }
